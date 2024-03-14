@@ -59,5 +59,8 @@
         {"id": "wrld_3c69c123-6e37-4f5c-a580-b623e95b7141", "name": "The Hangar", "comment": "Requested by GiggleLord"},
         {"id": "wrld_1e2f2a64-c06f-45dd-941b-a2047e4db556", "name": "Solaris", "comment": "Requested by GiggleLord"},
         {"id": "wrld_89b29f3e-85a7-4236-aafd-6fd95f33473a", "name": "Scratch - NightClub and Lounge", "comment": "Added by CyberKitsune"}
+        {"id": "wrld_aa1fd85b-948e-4f49-819d-fe42c688d3e8", "name": "ClubLA", "comment": "Added by Italiandogs"}
+        {"id": "wrld_ed195cfe-bd78-4c91-831d-9a9538391441", "name": "The Lofts at ClubLA", "comment": "Added by Italiandogs"}
+        {"id": "wrld_44c5d0c3-ab97-4874-a1a1-dbc54d5e68b9", "name": "CozyLA", "comment": "Added by Italiandogs"}
     ]
 }
